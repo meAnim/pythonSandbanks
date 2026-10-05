@@ -11,4 +11,5 @@ n=0.3
 print(a,b,n)
 
 print("Have a good day.", end=' ')
-print('Emma')
+print('Emma', end=" ")
+print(35,"years old")
